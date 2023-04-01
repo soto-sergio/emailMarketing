@@ -8,5 +8,4 @@ The ultimate goal is to continuously improve the performance of future waves of 
  
  ## Table of content  
  
- * Data
  * [Report](https://github.com/soto-sergio/emailMarketing/blob/main/report.pdf)
